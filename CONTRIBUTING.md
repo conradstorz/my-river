@@ -10,7 +10,7 @@ This instructions are for linux base systems. (Linux, MacOS, BSD, etc.)
 - On github interface click on `Fork` button.
 - Clone your fork of this repo. `git clone git@github.com:YOUR_GIT_USERNAME/my-river.git`
 - Enter the directory `cd my-river`
-- Add upstream repo `git remote add upstream https://github.com/conradstorz/my-river`
+- Add upstream repo `git remote add upstream https://github.com//my-river`
 
 ## Setting up your own virtual environment
 

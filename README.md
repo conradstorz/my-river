@@ -51,10 +51,10 @@ See also [Flask-Project-Template](https://github.com/rochacbruno/flask-project-t
 ---
 # my_river
 
-[![codecov](https://codecov.io/gh/conradstorz/my-river/branch/main/graph/badge.svg?token=my-river_token_here)](https://codecov.io/gh/conradstorz/my-river)
-[![CI](https://github.com/conradstorz/my-river/actions/workflows/main.yml/badge.svg)](https://github.com/conradstorz/my-river/actions/workflows/main.yml)
+[![codecov](https://codecov.io/gh//my-river/branch/main/graph/badge.svg?token=my-river_token_here)](https://codecov.io/gh//my-river)
+[![CI](https://github.com//my-river/actions/workflows/main.yml/badge.svg)](https://github.com//my-river/actions/workflows/main.yml)
 
-Awesome my_river created by conradstorz
+Awesome my_river created by 
 
 ## Install it from PyPI
 

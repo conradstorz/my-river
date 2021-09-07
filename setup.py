@@ -32,11 +32,11 @@ def read_requirements(path):
 setup(
     name="my_river",
     version=read("my_river", "VERSION"),
-    description="Awesome my_river created by conradstorz",
-    url="https://github.com/conradstorz/my-river/",
+    description="Awesome my_river created by ",
+    url="https://github.com//my-river/",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
-    author="conradstorz",
+    author="",
     packages=find_packages(exclude=["tests", ".github"]),
     install_requires=read_requirements("requirements.txt"),
     entry_points={
